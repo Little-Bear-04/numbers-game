@@ -1,0 +1,43 @@
+body {
+    margin: auto 0;
+    font-family: calibri;
+    background: #000000;
+}
+
+
+h1 {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center
+}
+
+p {
+    color: #FFFFFF;
+    font-size: 24px;
+    display: flex;
+    justify-content: center
+}
+
+/* Numbers Game */
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.form input[type="number"] {
+    width: 200px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.lastResult {
+    background-color: #000000;
+  color: white;
+  padding: 3px;
+}
+
+.resultParas {
+    background-color: #000000;
+}
